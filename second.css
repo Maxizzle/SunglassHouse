@@ -1,0 +1,167 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'luminari';
+}
+
+h1  {
+    font-family: 'luminari';
+    font-weight: 300;
+    margin-left: .5em;
+    margin-bottom:0;
+    text-decoration: none;
+    
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+ /* a:active  */
+
+h2 {
+    font-family: "HelveticaNeue-CondensedBold";
+    margin:0;
+    
+}
+.header {
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+}
+.header nav {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    /* border: 2px solid green; */
+    flex:3;
+    
+}
+.header .nav-item:hover{
+transform: scale(1.2);
+transition: all .5s ease-in-out;
+}
+
+
+.header nav .nav-item {
+    align-self: flex-end;
+    margin: 1em 2em;
+    font: bold;
+    font-weight:800;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: black;
+  
+    
+}
+
+.header .search-container img {
+    height: 23px;
+    width: 20px;  
+    margin-right: 2.5em; 
+}
+
+.header .search-container{
+    display: flex;
+    flex-flow: row;
+    align-self: center;
+    /* border: 1px solid blue; */
+    width: 80%;
+    flex:1;
+    height: 1.3em;
+}
+
+.title{
+    display:flex;
+    flex-direction:column;
+}
+
+
+.hero-2 {
+   display: flex;
+   flex-direction: row;
+   
+
+}
+.femme {
+    width: 50vw;
+    height: 40vw;
+}
+
+.femme1{
+    width: 50vw;
+    height: 40vw;
+}
+
+
+.sunpics {
+   display: grid;
+   grid-template-columns: 400px 400px 400px;
+   grid-column-gap:70px ;
+   
+}
+
+.price {
+    position: absolute;
+    color:  black;
+    font-size: 22px;
+  }
+
+.pic1 {
+   width: 15vw;
+   height: 15vw;
+
+}
+
+
+.pic2 {
+    width: 15vw;
+    height: 15vw;
+
+ }
+
+ .pic3 {
+    width: 15vw;
+    height: 15vw;
+
+ }
+
+ .pic4 {
+    width: 15vw;
+    height: 15vw;
+
+ }
+
+ .pic5 {
+    width: 13vw;
+    height: 13vw;
+ 
+ }
+
+ .pic6 {
+    width: 13vw;
+    height: 15vw;
+    
+ }
+
+ .pic7 {
+    width: 15vw;
+    height: 15vw;
+
+ }
+
+ .pic8 {
+    width: 12vw;
+    height: 13vw;
+
+ }
+
+ .pic9 {
+    width: 15vw;
+    height: 25vw;
+
+ }
