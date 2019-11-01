@@ -10,7 +10,7 @@ they look on you.
 Second , they help with visibility on bright and sunny days while also protecting your eyes from
 harmful UV rays eminating from our personal star.  
 
-![Sunglasshouse](/images/giphy-1.gif)
+![Sunglasshouse](images/giphy-1.gif)
 
 
 
